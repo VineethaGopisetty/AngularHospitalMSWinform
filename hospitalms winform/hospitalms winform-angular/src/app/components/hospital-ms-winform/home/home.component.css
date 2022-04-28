@@ -1,0 +1,90 @@
+.HospitalMSWinform_Home {
+    left: -1px;
+    top: -1px;
+}
+.HospitalMSWinform_Home .Home {
+    background-color: #FF8000;
+    width: 1232px;
+    height: 713px;
+    overflow: hidden;
+}
+.HospitalMSWinform_Home .label3 {
+    width: auto;
+    font-weight: bold;
+    font-size: 14pt;
+    color: White;
+    left: 177px;
+    top: 9px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Home .panel1 {
+    background-color: White;
+    left: 0px;
+    top: 54px;
+    width: 1234px;
+    height: 622px;
+    position: absolute;
+}
+.HospitalMSWinform_Home .label5 {
+    width: auto;
+    font-weight: bold;
+    font-size: 14pt;
+    color: White;
+    left: 377px;
+    top: 9px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Home .label1 {
+    width: auto;
+    font-weight: bold;
+    font-size: 14pt;
+    color: White;
+    left: 12px;
+    top: 9px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Home .label2 {
+    width: auto;
+    font-weight: bold;
+    font-size: 14pt;
+    color: White;
+    left: 1079px;
+    top: 9px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Home .label6 {
+    width: auto;
+    font-weight: bold;
+    font-size: 14pt;
+    color: White;
+    left: 644px;
+    top: 9px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Home .label4 {
+    width: auto;
+    font-weight: bold;
+    font-size: 14pt;
+    color: White;
+    left: 903px;
+    top: 9px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}

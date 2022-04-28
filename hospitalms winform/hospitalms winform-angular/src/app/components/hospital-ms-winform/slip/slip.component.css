@@ -1,0 +1,178 @@
+.HospitalMSWinform_Slip {
+    left: -1px;
+    top: -1px;
+}
+.HospitalMSWinform_Slip .Slip {
+    background-color: White;
+    width: 1187px;
+    height: 601px;
+    overflow: hidden;
+}
+.HospitalMSWinform_Slip .label8 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 79px;
+    top: 25px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Slip .label7 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 79px;
+    top: 109px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Slip .label1 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 77px;
+    top: 278px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Slip .label2 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 77px;
+    top: 386px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Slip .button3 {
+    background-color: #FF8000;
+    font-weight: bold;
+    font-size: 10pt;
+    color: White;
+    left: 814px;
+    top: 485px;
+    width: 189px;
+    height: 56px;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    display: table-cell;
+    vertical-align: middle;
+    display: table-cell;
+    background-image: none;
+}
+.HospitalMSWinform_Slip .button1 {
+    background-color: #FF8000;
+    font-weight: bold;
+    font-size: 10pt;
+    color: White;
+    left: 314px;
+    top: 51px;
+    width: 189px;
+    height: 56px;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    display: table-cell;
+    vertical-align: middle;
+    display: table-cell;
+    background-image: none;
+}
+.HospitalMSWinform_Slip .button2 {
+    background-color: #FF8000;
+    font-weight: bold;
+    font-size: 10pt;
+    color: White;
+    left: 381px;
+    top: 476px;
+    width: 189px;
+    height: 56px;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    display: table-cell;
+    vertical-align: middle;
+    display: table-cell;
+    background-image: none;
+}
+.HospitalMSWinform_Slip .PatientIdlbl {
+    left: 82px;
+    top: 68px;
+    width: 210px;
+    height: 26px;
+    position: absolute;
+}
+.HospitalMSWinform_Slip .PatientNamelbl {
+    left: 93px;
+    top: 150px;
+    width: 210px;
+    height: 26px;
+    position: absolute;
+}
+.HospitalMSWinform_Slip .Dayslbl {
+    left: 103px;
+    top: 437px;
+    width: 210px;
+    height: 26px;
+    position: absolute;
+}
+.HospitalMSWinform_Slip .button4 {
+    background-color: #FF8000;
+    font-weight: bold;
+    font-size: 10pt;
+    color: White;
+    left: 103px;
+    top: 476px;
+    width: 189px;
+    height: 56px;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    display: table-cell;
+    vertical-align: middle;
+    display: table-cell;
+    background-image: none;
+}
+.HospitalMSWinform_Slip .label6 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 79px;
+    top: 194px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Slip .WordTb {
+    left: 93px;
+    top: 334px;
+    width: 210px;
+    height: 26px;
+    position: absolute;
+}
+.HospitalMSWinform_Slip .PatientGenTb {
+    left: 93px;
+    top: 237px;
+    width: 210px;
+    height: 26px;
+    position: absolute;
+}
+.HospitalMSWinform_Slip .BillSlip {
+    font-size: 12pt;
+    color: rgba(0, 120, 215, 1);
+    left: 580px;
+    top: 30px;
+    width: 559px;
+    height: 407px;
+    position: absolute;
+}

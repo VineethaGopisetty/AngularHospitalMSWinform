@@ -1,0 +1,31 @@
+<div *ngIf="model">
+    <wm-window [model]="model" id="ViewPatient" class="HospitalMSWinform_ViewPatient">
+        <ng-template let-model>
+            <div class="ViewPatient">
+                <wm-label #label1 id="label1" [model]="model.label1" class="label1" tabindex="35">PatientId</wm-label>
+                <wm-label #label2 id="label2" [model]="model.label2" class="label2" tabindex="36">PatientAge</wm-label>
+                <wm-label #label3 id="label3" [model]="model.label3" class="label3" tabindex="37">PatientPhone</wm-label>
+                <wm-label #label4 id="label4" [model]="model.label4" class="label4" tabindex="38">PatientBGP</wm-label>
+                <wm-label #label5 id="label5" [model]="model.label5" class="label5" tabindex="39">PatientAdd</wm-label>
+                <wm-label #label6 id="label6" [model]="model.label6" class="label6" tabindex="40">PatientGen</wm-label>
+                <wm-label #label7 id="label7" [model]="model.label7" class="label7" tabindex="41">PatientName</wm-label>
+                <wm-button #button1 id="button1" [model]="model.button1" class="button1" tabindex="42"></wm-button>
+                <wm-textbox #PatientidTb id="PatientidTb" [model]="model.PatientidTb" class="PatientidTb" tabindex="44"></wm-textbox>
+                <wm-label #label8 id="label8" [model]="model.label8" class="label8" tabindex="45">PatientId</wm-label>
+                <wm-label #PatientAgelbl id="PatientAgelbl" [model]="model.PatientAgelbl" class="PatientAgelbl" tabindex="46">PatientAge</wm-label>
+                <wm-label #PatientBGPlbl id="PatientBGPlbl" [model]="model.PatientBGPlbl" class="PatientBGPlbl" tabindex="47">PatientBGP</wm-label>
+                <wm-label #PatientAddlbl id="PatientAddlbl" [model]="model.PatientAddlbl" class="PatientAddlbl" tabindex="48">PatientAdd</wm-label>
+                <wm-label #PatientIdlbl id="PatientIdlbl" [model]="model.PatientIdlbl" class="PatientIdlbl" tabindex="49">PatientId</wm-label>
+                <wm-label #Patientphonelbl id="Patientphonelbl" [model]="model.Patientphonelbl" class="Patientphonelbl" tabindex="50">PatientPhone</wm-label>
+                <wm-label #PatientGenlbl id="PatientGenlbl" [model]="model.PatientGenlbl" class="PatientGenlbl" tabindex="51">PatientGen</wm-label>
+                <wm-label #PatientNamelbl id="PatientNamelbl" [model]="model.PatientNamelbl" class="PatientNamelbl" tabindex="52">PatientName</wm-label>
+                <wm-button #button3 id="button3" [model]="model.button3" class="button3" tabindex="53"></wm-button>
+                <wm-button #button4 id="button4" [model]="model.button4" class="button4" tabindex="54"></wm-button>
+                <wm-label #label9 id="label9" [model]="model.label9" class="label9" tabindex="55">TypeOfWord</wm-label>
+                <wm-label #label10 id="label10" [model]="model.label10" class="label10" tabindex="56">PatientDisease</wm-label>
+                <wm-label #PatientDislbl id="PatientDislbl" [model]="model.PatientDislbl" class="PatientDislbl" tabindex="57">PatientDisease</wm-label>
+                <wm-label #Wordlbl id="Wordlbl" [model]="model.Wordlbl" class="Wordlbl" tabindex="58">TypeOfWord</wm-label>
+            </div>
+        </ng-template>
+    </wm-window>
+</div>

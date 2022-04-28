@@ -1,0 +1,37 @@
+.HospitalMSWinform_Main {
+    left: -1px;
+    top: -1px;
+}
+.HospitalMSWinform_Main .Main {
+    background-color: #FF8000;
+    width: 1262px;
+    height: 712px;
+    overflow: hidden;
+}
+.HospitalMSWinform_Main .label1 {
+    width: auto;
+    font-weight: bold;
+    font-size: 28pt;
+    color: White;
+    left: 214px;
+    top: 208px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Main .button1 {
+    background-color: Azure;
+    font-size: 16pt;
+    color: Black;
+    left: 423px;
+    top: 358px;
+    width: 290px;
+    height: 94px;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    display: table-cell;
+    vertical-align: middle;
+    display: table-cell;
+    background-image: none;
+}

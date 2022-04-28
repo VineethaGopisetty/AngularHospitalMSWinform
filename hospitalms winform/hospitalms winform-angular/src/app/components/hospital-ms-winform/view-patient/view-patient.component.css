@@ -1,0 +1,293 @@
+.HospitalMSWinform_ViewPatient {
+    left: -1px;
+    top: -1px;
+}
+.HospitalMSWinform_ViewPatient .ViewPatient {
+    background-color: White;
+    width: 1167px;
+    height: 601px;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .label1 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 278px;
+    top: 26px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .label2 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 159px;
+    top: 284px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .label3 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 645px;
+    top: 242px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .label4 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 159px;
+    top: 213px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .label5 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 159px;
+    top: 153px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .label6 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 645px;
+    top: 164px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .label7 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 645px;
+    top: 96px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .button1 {
+    background-color: #FF8000;
+    font-weight: bold;
+    font-size: 10pt;
+    color: White;
+    left: 676px;
+    top: 13px;
+    width: 189px;
+    height: 56px;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    display: table-cell;
+    vertical-align: middle;
+    display: table-cell;
+    background-image: none;
+}
+.HospitalMSWinform_ViewPatient .PatientidTb {
+    left: 457px;
+    top: 30px;
+    width: 195px;
+    height: 26px;
+    position: absolute;
+}
+.HospitalMSWinform_ViewPatient .label8 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 159px;
+    top: 87px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .PatientAgelbl {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: Blue;
+    left: 389px;
+    top: 294px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .PatientBGPlbl {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: Blue;
+    left: 389px;
+    top: 223px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .PatientAddlbl {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: Blue;
+    left: 396px;
+    top: 153px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .PatientIdlbl {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: Blue;
+    left: 396px;
+    top: 87px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .Patientphonelbl {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: Blue;
+    left: 859px;
+    top: 242px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .PatientGenlbl {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: Blue;
+    left: 859px;
+    top: 164px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .PatientNamelbl {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: Blue;
+    left: 859px;
+    top: 96px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .button3 {
+    background-color: #FF8000;
+    font-weight: bold;
+    font-size: 10pt;
+    color: White;
+    left: 323px;
+    top: 431px;
+    width: 189px;
+    height: 56px;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    display: table-cell;
+    vertical-align: middle;
+    display: table-cell;
+    background-image: none;
+}
+.HospitalMSWinform_ViewPatient .button4 {
+    background-color: #FF8000;
+    font-weight: bold;
+    font-size: 10pt;
+    color: White;
+    left: 617px;
+    top: 431px;
+    width: 189px;
+    height: 56px;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    display: table-cell;
+    vertical-align: middle;
+    display: table-cell;
+    background-image: none;
+}
+.HospitalMSWinform_ViewPatient .label9 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 645px;
+    top: 323px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .label10 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 159px;
+    top: 357px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .PatientDislbl {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: Blue;
+    left: 389px;
+    top: 357px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_ViewPatient .Wordlbl {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: Blue;
+    left: 859px;
+    top: 323px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}

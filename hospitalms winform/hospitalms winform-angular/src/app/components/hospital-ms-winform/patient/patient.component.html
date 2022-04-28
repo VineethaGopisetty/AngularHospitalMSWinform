@@ -1,0 +1,29 @@
+<div *ngIf="model">
+    <wm-window [model]="model" id="Patient" class="HospitalMSWinform_Patient">
+        <ng-template let-model>
+            <div class="Patient">
+                <wm-label #label1 id="label1" [model]="model.label1" class="label1" tabindex="18">PatientId</wm-label>
+                <wm-label #label2 id="label2" [model]="model.label2" class="label2" tabindex="19">PatientAge</wm-label>
+                <wm-label #label3 id="label3" [model]="model.label3" class="label3" tabindex="20">PatientPhone</wm-label>
+                <wm-label #label4 id="label4" [model]="model.label4" class="label4" tabindex="21">PatientBGP</wm-label>
+                <wm-label #label5 id="label5" [model]="model.label5" class="label5" tabindex="22">PatientAdd</wm-label>
+                <wm-label #label6 id="label6" [model]="model.label6" class="label6" tabindex="23">PatientGen</wm-label>
+                <wm-label #label7 id="label7" [model]="model.label7" class="label7" tabindex="24">PatientName</wm-label>
+                <wm-button #button1 id="button1" [model]="model.button1" class="button1" tabindex="25"></wm-button>
+                <wm-button #button2 id="button2" [model]="model.button2" class="button2" tabindex="26"></wm-button>
+                <wm-textbox #PatientIdTb id="PatientIdTb" [model]="model.PatientIdTb" class="PatientIdTb" tabindex="27"></wm-textbox>
+                <wm-textbox #PatientNameTb id="PatientNameTb" [model]="model.PatientNameTb" class="PatientNameTb" tabindex="28"></wm-textbox>
+                <wm-textbox #PatientAddTb id="PatientAddTb" [model]="model.PatientAddTb" class="PatientAddTb" tabindex="29"></wm-textbox>
+                <wm-textbox #PatientAgeTb id="PatientAgeTb" [model]="model.PatientAgeTb" class="PatientAgeTb" tabindex="30"></wm-textbox>
+                <wm-textbox #PatientPhoneTb id="PatientPhoneTb" [model]="model.PatientPhoneTb" class="PatientPhoneTb" tabindex="31"></wm-textbox>
+                <wm-combobox #PatientBGPCb id="PatientBGPCb" [model]="model.PatientBGPCb" class="PatientBGPCb" tabindex="32"></wm-combobox>
+                <wm-combobox #PatientGenCb id="PatientGenCb" [model]="model.PatientGenCb" class="PatientGenCb" tabindex="33"></wm-combobox>
+                <wm-label #label8 id="label8" [model]="model.label8" class="label8" tabindex="35">TypeOfWord</wm-label>
+                <wm-label #label9 id="label9" [model]="model.label9" class="label9" tabindex="36">PatientDisease</wm-label>
+                <wm-combobox #WordCb id="WordCb" [model]="model.WordCb" class="WordCb" tabindex="37"></wm-combobox>
+                <wm-textbox #PatientDisTb id="PatientDisTb" [model]="model.PatientDisTb" class="PatientDisTb" tabindex="38"></wm-textbox>
+                <wm-datagridview #PatientDGV id="PatientDGV" [model]="model.PatientDGV" class="PatientDGV" tabindex="39"></wm-datagridview>
+            </div>
+        </ng-template>
+    </wm-window>
+</div>

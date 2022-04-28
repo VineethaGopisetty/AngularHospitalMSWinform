@@ -1,0 +1,16 @@
+<div *ngIf="model">
+    <wm-window [model]="model" id="Home" class="HospitalMSWinform_Home">
+        <ng-template let-model>
+            <div class="Home">
+                <wm-label #label3 id="label3" [model]="model.label3" class="label3" tabindex="2">Patient</wm-label>
+                <wm-panel #panel1 id="panel1" [model]="model.panel1" class="panel1" tabindex="2">
+</wm-panel>
+                <wm-label #label5 id="label5" [model]="model.label5" class="label5" tabindex="4">ViewDetails</wm-label>
+                <wm-label #label1 id="label1" [model]="model.label1" class="label1" tabindex="7">Home</wm-label>
+                <wm-label #label2 id="label2" [model]="model.label2" class="label2" tabindex="7">Logout</wm-label>
+                <wm-label #label6 id="label6" [model]="model.label6" class="label6" tabindex="6">PatientBills</wm-label>
+                <wm-label #label4 id="label4" [model]="model.label4" class="label4" tabindex="5">About</wm-label>
+            </div>
+        </ng-template>
+    </wm-window>
+</div>

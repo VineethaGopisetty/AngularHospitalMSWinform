@@ -1,0 +1,38 @@
+.HospitalMSWinform_About {
+    left: -1px;
+    top: -1px;
+}
+.HospitalMSWinform_About .About {
+    background-color: White;
+    width: 1105px;
+    height: 541px;
+    overflow: hidden;
+}
+.HospitalMSWinform_About .label1 {
+    width: auto;
+    font-weight: bold;
+    font-size: 20pt;
+    color: #FF8000;
+    left: 403px;
+    top: 9px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_About .richTextBox1 {
+    font-size: 14pt;
+    color: #C00000;
+    left: 60px;
+    top: 329px;
+    width: 1033px;
+    height: 185px;
+    position: absolute;
+}
+.HospitalMSWinform_About .pictureBox1 {
+    left: 437px;
+    top: 66px;
+    width: 200px;
+    height: 231px;
+    position: absolute;
+}

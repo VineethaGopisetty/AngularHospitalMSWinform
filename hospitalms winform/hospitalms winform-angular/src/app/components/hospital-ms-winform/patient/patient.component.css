@@ -1,0 +1,220 @@
+.HospitalMSWinform_Patient {
+    left: -1px;
+    top: -1px;
+}
+.HospitalMSWinform_Patient .Patient {
+    background-color: White;
+    width: 1055px;
+    height: 481px;
+    overflow: hidden;
+}
+.HospitalMSWinform_Patient .label1 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 44px;
+    top: 7px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Patient .label2 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 265px;
+    top: 74px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Patient .label3 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 461px;
+    top: 85px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Patient .label4 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 33px;
+    top: 74px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Patient .label5 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 615px;
+    top: 7px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Patient .label6 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 410px;
+    top: 7px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Patient .label7 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 205px;
+    top: 7px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Patient .button1 {
+    background-color: #FF8000;
+    font-weight: bold;
+    font-size: 14pt;
+    color: White;
+    left: 756px;
+    top: 47px;
+    width: 114px;
+    height: 45px;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    display: table-cell;
+    vertical-align: middle;
+    display: table-cell;
+    background-image: none;
+}
+.HospitalMSWinform_Patient .button2 {
+    background-color: #FF8000;
+    font-weight: bold;
+    font-size: 14pt;
+    color: White;
+    left: 755px;
+    top: 114px;
+    width: 114px;
+    height: 40px;
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    display: table-cell;
+    vertical-align: middle;
+    display: table-cell;
+    background-image: none;
+}
+.HospitalMSWinform_Patient .PatientIdTb {
+    left: 38px;
+    top: 38px;
+    width: 125px;
+    height: 22px;
+    position: absolute;
+}
+.HospitalMSWinform_Patient .PatientNameTb {
+    left: 225px;
+    top: 42px;
+    width: 136px;
+    height: 22px;
+    position: absolute;
+}
+.HospitalMSWinform_Patient .PatientAddTb {
+    left: 615px;
+    top: 42px;
+    width: 136px;
+    height: 22px;
+    position: absolute;
+}
+.HospitalMSWinform_Patient .PatientAgeTb {
+    left: 251px;
+    top: 114px;
+    width: 152px;
+    height: 22px;
+    position: absolute;
+}
+.HospitalMSWinform_Patient .PatientPhoneTb {
+    left: 454px;
+    top: 127px;
+    width: 183px;
+    height: 22px;
+    position: absolute;
+}
+.HospitalMSWinform_Patient .PatientBGPCb {
+    left: 37px;
+    top: 114px;
+    width: 158px;
+    height: 24px;
+    position: absolute;
+}
+.HospitalMSWinform_Patient .PatientGenCb {
+    left: 410px;
+    top: 47px;
+    width: 126px;
+    height: 24px;
+    position: absolute;
+}
+.HospitalMSWinform_Patient .label8 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 33px;
+    top: 159px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Patient .label9 {
+    width: auto;
+    font-weight: bold;
+    font-size: 12pt;
+    color: #FF8000;
+    left: 405px;
+    top: 162px;
+    height: auto;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.HospitalMSWinform_Patient .WordCb {
+    left: 193px;
+    top: 162px;
+    width: 158px;
+    height: 24px;
+    position: absolute;
+}
+.HospitalMSWinform_Patient .PatientDisTb {
+    left: 579px;
+    top: 166px;
+    width: 152px;
+    height: 22px;
+    position: absolute;
+}
+.HospitalMSWinform_Patient .PatientDGV {
+    left: 12px;
+    top: 208px;
+    width: 1031px;
+    height: 261px;
+    position: absolute;
+}

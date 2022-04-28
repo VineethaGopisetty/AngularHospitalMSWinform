@@ -1,0 +1,23 @@
+<div *ngIf="model">
+    <wm-window [model]="model" id="Slip" class="HospitalMSWinform_Slip">
+        <ng-template let-model>
+            <div class="Slip">
+                <wm-label #label8 id="label8" [model]="model.label8" class="label8" tabindex="46">PatientId</wm-label>
+                <wm-label #label7 id="label7" [model]="model.label7" class="label7" tabindex="47">PatientName</wm-label>
+                <wm-label #label1 id="label1" [model]="model.label1" class="label1" tabindex="48">TypeOfWord</wm-label>
+                <wm-label #label2 id="label2" [model]="model.label2" class="label2" tabindex="49">Treatment Days</wm-label>
+                <wm-button #button3 id="button3" [model]="model.button3" class="button3" tabindex="54"></wm-button>
+                <wm-button #button1 id="button1" [model]="model.button1" class="button1" tabindex="55"></wm-button>
+                <wm-button #button2 id="button2" [model]="model.button2" class="button2" tabindex="56"></wm-button>
+                <wm-textbox #PatientIdlbl id="PatientIdlbl" [model]="model.PatientIdlbl" class="PatientIdlbl" tabindex="57"></wm-textbox>
+                <wm-textbox #PatientNamelbl id="PatientNamelbl" [model]="model.PatientNamelbl" class="PatientNamelbl" tabindex="59"></wm-textbox>
+                <wm-textbox #Dayslbl id="Dayslbl" [model]="model.Dayslbl" class="Dayslbl" tabindex="60"></wm-textbox>
+                <wm-button #button4 id="button4" [model]="model.button4" class="button4" tabindex="62"></wm-button>
+                <wm-label #label6 id="label6" [model]="model.label6" class="label6" tabindex="63">PatientGen</wm-label>
+                <wm-textbox #WordTb id="WordTb" [model]="model.WordTb" class="WordTb" tabindex="64"></wm-textbox>
+                <wm-textbox #PatientGenTb id="PatientGenTb" [model]="model.PatientGenTb" class="PatientGenTb" tabindex="65"></wm-textbox>
+                <wm-richtextbox #BillSlip id="BillSlip" [model]="model.BillSlip" class="BillSlip" tabindex="66"></wm-richtextbox>
+            </div>
+        </ng-template>
+    </wm-window>
+</div>
